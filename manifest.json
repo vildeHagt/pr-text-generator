@@ -10,7 +10,7 @@
   },
   "content_scripts": [
     {
-      "js": ["scripts/button.js"],
+      "js": ["scripts/button.js", "scripts/dropDown.js"],
       "matches": ["https://www.github.com/*", "https://github.com/*"]
     }
   ],
