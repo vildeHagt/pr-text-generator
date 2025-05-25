@@ -10,19 +10,9 @@ if (actionBar) {
   button.textContent = "✨";
 
   button.addEventListener("click", () => {
-    event.preventDefault();
-    const existing = document.getElementById("ai-dropdown");
-    if (existing) {
-      existing.remove();
-      return;
-    }
-
-    const dropDown = createDropdown(button);
-    document.body.appendChild(dropDown);
-    const rect = button.getBoundingClientRect();
-    dropDown.style.position = "absolute";
-    dropDown.style.top = rect.bottom + window.scrollY + "px";
-    dropDown.style.left = rect.left + window.scrollX + "px";
+    const prText = generateText();
+    const textField = document.getElementById("pull_request_review_body");
+    textField.value = prText;
   });
 
   actionBar.appendChild(button);

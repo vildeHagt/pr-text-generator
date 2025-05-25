@@ -10,7 +10,11 @@
   },
   "content_scripts": [
     {
-      "js": ["scripts/button.js", "scripts/dropDown.js"],
+      "js": [
+        "scripts/button.js",
+        "scripts/generateText.js",
+        "constants/text.js"
+      ],
       "matches": ["https://www.github.com/*", "https://github.com/*"]
     }
   ],
