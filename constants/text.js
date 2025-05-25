@@ -1,6 +1,6 @@
 const prTexts = [
   "Chef’s kiss, no crumbs 👨‍🍳",
-  "Its giving ✨Tech Guru✨",
+  "Its giving ✨tech guru✨",
   "🚀",
   "Slaayy, gurl!! 💅💅",
   "Compiled? ate. 🍽️",
