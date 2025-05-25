@@ -1,5 +1,5 @@
 const prTexts = [
-  "chef’s kiss, no crumbs 👨‍🍳",
+  "chef’s kiss, no crumbs 🤌",
   "its giving ✨tech guru✨",
   "yaaas gurl, slaayy!! 💅💅",
   "Compiled? ate. 🍽️",
@@ -40,4 +40,5 @@ const prTexts = [
   "its bussin 🐝",
   "clean, efficient, AND dank?? ok flex 💪",
   "gg 🤝",
+  "okurrr! 💅",
 ];
