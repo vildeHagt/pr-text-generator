@@ -26,7 +26,7 @@ const prTexts = [
   "this? this is art 🎨",
   "wait why is this actually iconic 😭",
   "i gasped",
-  "ok but why did this go so hard??? 💀",
+"ok but why did this go so hard??? 💀",
   "this PR understood the vibes completely ✨",
   "emotionally attached to this diff now 🫂",
   "this code is in its reputation era 💅",
@@ -41,4 +41,6 @@ const prTexts = [
   "clean, efficient, AND dank?? ok flex 💪",
   "gg 🤝",
   "okurrr! 💅",
+ "Yabadabadoo! 🐶",
+"🚀"
 ];
