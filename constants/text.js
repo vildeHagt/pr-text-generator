@@ -42,5 +42,6 @@ const prTexts = [
   "gg 🤝",
   "okurrr! 💅",
  "Yabadabadoo! 🐶",
-"🚀"
+"🚀",
+"To infinity and beyond! 🚀 🌑"
 ];
